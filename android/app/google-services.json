@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "693595551786",
+    "project_id": "flutter-isa",
+    "storage_bucket": "flutter-isa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693595551786:android:1b2c5cab9bcea5dad0ab53",
+        "android_client_info": {
+          "package_name": "com.example.reporting_kinerja_karyawan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693595551786-ns2399ajjm97l7ssvic7jjd9qoctbrfo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL2O_cMeDXfWWcaG_BzBQjelOL9Ja4Czk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693595551786-ns2399ajjm97l7ssvic7jjd9qoctbrfo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
